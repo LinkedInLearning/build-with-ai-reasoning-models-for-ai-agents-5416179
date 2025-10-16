@@ -4,6 +4,239 @@ All Rights Reserved.
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
+ATTRIBUTIONS:
+
+Jupyter/IPython Ecosystem
+ipython
+[https://github.com/ipython/ipython](https://github.com/ipython/ipython)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+ipykernel
+[https://github.com/ipython/ipykernel](https://github.com/ipython/ipykernel)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+jupyter-client
+[https://github.com/jupyter/jupyter_client](https://github.com/jupyter/jupyter_client)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+jupyter-core
+[https://github.com/jupyter/jupyter_core](https://github.com/jupyter/jupyter_core)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+traitlets
+[https://github.com/ipython/traitlets](https://github.com/ipython/traitlets)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+comm
+[https://github.com/ipython/comm](https://github.com/ipython/comm)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+matplotlib-inline
+[https://github.com/ipython/matplotlib-inline](https://github.com/ipython/matplotlib-inline)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+pexpect
+[https://github.com/pexpect/pexpect](https://github.com/pexpect/pexpect)
+License: ISC
+[https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+
+ptyprocess
+[https://github.com/pexpect/ptyprocess](https://github.com/pexpect/ptyprocess)
+License: ISC
+[https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+
+pyzmq
+[https://github.com/zeromq/pyzmq](https://github.com/zeromq/pyzmq)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+prompt-toolkit
+[https://github.com/prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+wcwidth
+[https://github.com/jquast/wcwidth](https://github.com/jquast/wcwidth)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+stack-data
+[https://github.com/alexmojaki/stack_data](https://github.com/alexmojaki/stack_data)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+executing
+[https://github.com/alexmojaki/executing](https://github.com/alexmojaki/executing)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+pure-eval
+[https://github.com/alexmojaki/pure_eval](https://github.com/alexmojaki/pure_eval)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+debugpy
+[https://github.com/microsoft/debugpy](https://github.com/microsoft/debugpy)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+Google Generative AI Stack
+google-genai
+[https://github.com/googleapis/python-genai](https://github.com/googleapis/python-genai)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+google-auth
+[https://github.com/googleapis/google-auth-library-python](https://github.com/googleapis/google-auth-library-python)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+rsa
+[https://github.com/sybrenstuvel/python-rsa](https://github.com/sybrenstuvel/python-rsa)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+pyasn1
+[https://github.com/etingof/pyasn1](https://github.com/etingof/pyasn1)
+License: BSD-2-Clause
+[https://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)
+
+pyasn1-modules
+[https://github.com/etingof/pyasn1-modules](https://github.com/etingof/pyasn1-modules)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+cachetools
+[https://github.com/tkem/cachetools](https://github.com/tkem/cachetools)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+six
+[https://github.com/benjaminp/six](https://github.com/benjaminp/six)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+Pydantic / Typing Ecosystem
+pydantic
+[https://github.com/pydantic/pydantic](https://github.com/pydantic/pydantic)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+pydantic-core
+[https://github.com/pydantic/pydantic-core](https://github.com/pydantic/pydantic-core)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+annotated-types
+[https://github.com/pydantic/annotated-types](https://github.com/pydantic/annotated-types)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+typing-inspection
+[https://github.com/pydantic/typing-inspection](https://github.com/pydantic/typing-inspection)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+typing-extensions
+[https://github.com/python/typing_extensions](https://github.com/python/typing_extensions)
+License: Python-2.0
+[https://docs.python.org/3/license.html](https://docs.python.org/3/license.html)
+--------------------------------------------------------------------------------
+
+HTTP and Networking Layer
+requests
+[https://github.com/psf/requests](https://github.com/psf/requests)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+urllib3
+[https://github.com/urllib3/urllib3](https://github.com/urllib3/urllib3)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+idna
+[https://github.com/kjd/idna](https://github.com/kjd/idna)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+certifi
+[https://github.com/certifi/python-certifi](https://github.com/certifi/python-certifi)
+License: MPL-2.0
+[https://www.mozilla.org/en-US/MPL/2.0/](https://www.mozilla.org/en-US/MPL/2.0/)
+
+charset-normalizer
+[https://github.com/Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+httpx
+[https://github.com/encode/httpx](https://github.com/encode/httpx)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+httpcore
+[https://github.com/encode/httpcore](https://github.com/encode/httpcore)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+sniffio
+[https://github.com/python-trio/sniffio](https://github.com/python-trio/sniffio)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+anyio
+[https://github.com/agronholm/anyio](https://github.com/agronholm/anyio)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+h11
+[https://github.com/python-hyper/h11](https://github.com/python-hyper/h11)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+tornado
+[https://github.com/tornadoweb/tornado](https://github.com/tornadoweb/tornado)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
+Python Build / Packaging Stack
+setuptools
+[https://github.com/pypa/setuptools](https://github.com/pypa/setuptools)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+wheel
+[https://github.com/pypa/wheel](https://github.com/pypa/wheel)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+packaging
+[https://github.com/pypa/packaging](https://github.com/pypa/packaging)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+
+platformdirs
+[https://github.com/platformdirs/platformdirs](https://github.com/platformdirs/platformdirs)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
+python-dateutil
+[https://github.com/dateutil/dateutil](https://github.com/dateutil/dateutil)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
 If so, such third party code may be subject to other license terms than as set 
