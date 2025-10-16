@@ -1,42 +1,17 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Build with AI: Reasoning Models for AI Agents
+This is the repository for the LinkedIn Learning course `Build with AI: Reasoning Models for AI Agents`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
 ## Course Description
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Dive into the fascinating world of reasoning models to learn how they differ from general purpose models. Develop practical skills by applying reasoning models to solve complex tasks, such as scraping and comparing online revenue data or preparing meals that accommodate dietary restrictions. Investigate the capabilities of reasoning models, like how they can efficiently assess information, make decisions, and execute tasks that require analytical thinking. This course is tailored for intermediate-level software developers looking to amplify their expertise in AI by integrating reasoning models into their applications. By the end of this course, you'll be equipped with practical skills for building AI agents that can perform tasks such as generating data visualizations and adapting recipes for diverse dietary needs. Are you ready to uncover the intricacies of reasoning models and learn how they can improve your AI applications?
 
 ## Instructor
 
-Instructor name
+Yujian Tang
 
-Instructor description
-
-                            
+AI Builder                  
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
 
@@ -44,5 +19,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGCr5IWr_mmHw/learning-public-crop_675_1200/B4EZnQOmK4GUAY-/0/1760135112083?e=2147483647&v=beta&t=QXuvdHoijU0E15oZW7YD_a6noubHzRaJptY1QGsAT7Q
 
